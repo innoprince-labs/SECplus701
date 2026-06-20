@@ -1,0 +1,13 @@
+Kali = admin/pass
+
+#get your ip 
+On terminal:> ip addr
+
+#connect via ssh2 securecrt with the IP
+
+#to open the home page
+
+sudo su
+sudo /opt/lampp/lampp/start
+sudo systemctl stop apache2
+http://192.168.101.225/mutillidae/src/index.php
